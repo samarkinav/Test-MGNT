@@ -1,1 +1,1 @@
-# Test-MGNT
+# Test task for Magnit Tech
